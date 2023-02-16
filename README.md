@@ -1,6 +1,6 @@
 # ft_irc
 
-### Original Workspace
+### Original Team Workspace
 https://github.com/Water-Rocket-IRC/irc
 
 ### Blog
